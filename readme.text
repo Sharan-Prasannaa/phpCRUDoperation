@@ -1,2 +1,0 @@
-Create a .env file to set up environment variable. 
-Use a library vlucas/phpdotenv "composer require vlucas/phpdotenv" to load .env variables in PHP.
